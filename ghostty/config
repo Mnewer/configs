@@ -85,3 +85,6 @@ macos-titlebar-style = transparent
 
 font-family = "JetBrains Mono"
 font-size = 13.5
+
+# Set a default directory for ghostty to open a new tab in
+working-directory = /Users/*YOURUSERNAMEHERE*/Documents/GitHub 
